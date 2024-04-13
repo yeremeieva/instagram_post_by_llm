@@ -1,0 +1,6 @@
+gradio==4.26.0
+pandas==2.2.2
+langchain==0.1.15
+langchain-community==0.0.32
+sentence-transformers==2.6.1
+chromadb==0.4.24
